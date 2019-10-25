@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tab_text_1">MOVIES</string>
+    <string name="tab_text_2">TV SHOWS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contentdesc">contentdesc</string>
+    <string name="test_desc">Bla bla bla bla bla dasoidhasd erewi fweifnwef efinef fweofinwefwef wefinwefoiwnfwefinweiofnwfiwnfowifnwfionefoinwef</string>
+    <string name="overview">Overview</string>
+    <string name="language">en-US</string>
+    <string name="toast_massage">failed to retrieve data</string>
+</resources>

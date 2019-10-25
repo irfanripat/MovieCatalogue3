@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="tab_text_1">FILM</string>
+    <string name="tab_text_2">ACARA TV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contentdesc">contentdesc</string>
+    <string name="test_desc">Bla bla bla bla bla dasoidhasd erewi fweifnwef efinef fweofinwefwef wefinwefoiwnfwefinweiofnwfiwnfowifnwfionefoinwef</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="language">id-ID</string>
+    <string name="toast_massage">Gagal mengambil data</string>
+</resources>
